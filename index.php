@@ -6,7 +6,6 @@ if(!preg_tel_cn($tel)){
 	echo "手机号码错误";
 }
 
-var_dump($_SERVER);
-
+//var_dump($_SERVER);
 
 ?>
